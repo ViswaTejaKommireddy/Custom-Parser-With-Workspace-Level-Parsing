@@ -19,3 +19,6 @@ Open the lsp-sample folder in VS Code.
 Press F5 or select Run > Start Debugging.
 
 Choose VS Code Extension Development Host when prompted.
+
+For testing choose the below folder:
+\lsp-sample\server\src\test\sample
